@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "cadastroCompleto": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cadastroCompleto"
+    }
+  },
+  "defaultProject": "cadastroCompleto",
+  "cli": {
+    "analytics": "bffe5842-c588-429f-baac-b0d619f37e78"
+  }
 }
